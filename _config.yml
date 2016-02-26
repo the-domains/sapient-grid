@@ -2,12 +2,13 @@ name: sapient grid
 favicon: null
 layout_spectrum: 0.10813136678189039
 typography_spectrum: 0.8820557836443186
+title: Sapient Gri
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: 'UA-74371551-1 '
   facebook: null
   twitter: null
 opengraph:
