@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[sapient grid]]></title>
-        <description><![CDATA[sapient grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Sapient Grid]]></title>
+        <description><![CDATA[Sapient Grid]]></description>
+        <link>https://thegrid.ai/sapient-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 07:53:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 07:56:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sapient-grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>SapientNitro is a
- new breed of agency for an always-on world, unifying promise with 
-experience by telling stories in new and unexpected ways across brand 
-communications, digital experience, and omni-channel commerce.</p>]]></description>
-            <link>undefined18c412e0-9b71-4dc3-b98e-9d2ba1b1cd9f/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c9a6355-7cd8-40dc-a61a-aa24b8ee4e0a.jpg">]]></description>
+            <link>https://thegrid.ai/sapient-grid/18c412e0-9b71-4dc3-b98e-9d2ba1b1cd9f/index.html</link>
             <guid isPermaLink="false">18c412e0-9b71-4dc3-b98e-9d2ba1b1cd9f</guid>
-            <pubDate>Fri, 26 Feb 2016 07:53:37 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 07:55:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
