@@ -1,29 +1,41 @@
-name: sapient grid
-favicon: null
-layout_spectrum: 0.10813136678189039
-typography_spectrum: 0.8820557836443186
 title: Sapient Grid
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5307377553544939
+  brandStrength: 0.7217651882674545
+  lightness: 0.892982822842896
+  brandColors:
+    - '#FC541F'
+    - '#2F426E'
+    - '#6EA330'
+    - '#1F4B04'
+    - '#FDF3A3'
+  rhythmicContrast: 0.300228436011821
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: 'UA-74371551-1 '
   facebook: null
-  twitter: null
+favicon: null
+name: sapient grid
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.7217651882674545
-  lightness: 0.892982822842896
-  saturation: 0.5307377553544939
-  rhythmicContrast: 0.30022843601182103
-purpose: []
+typography_spectrum: 0.0982814
+layout_spectrum: 1
